@@ -1,0 +1,24 @@
+.heading{
+    margin: 0px;
+    box-shadow: 3px 3px 3px grey;
+    font-weight: bold;
+    font-size: 15px;
+    width: 100%;
+    font-family: 'Pacifico', cursive;
+}
+.note{
+    color: black;
+    font-family: 'Pacifico', cursive;
+}
+.copy_right_footer{
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+    bottom: 0;
+    background-color: rgb(135, 219, 67);
+    color: rgb(240, 10, 10);
+    position: fixed;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+}
